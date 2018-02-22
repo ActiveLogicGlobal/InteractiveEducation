@@ -1,2 +1,2 @@
-# PersonalUtility
-A project  on personal management.
+# Interactive Education
+A project to help children learn easily.
