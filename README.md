@@ -1,2 +1,5 @@
-# Interactive Education
-A project to help children learn easily.
+# Team Members:
+* Amit Gupta
+* Bibek BC
+* Simrandeep Kaur
+* Simran Kaur Virdee
